@@ -1,0 +1,71 @@
+#vamshi{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+#object{
+    background-color: rgb(236, 172, 93);
+}
+#skill{
+    color: black;
+    background-color: grey;
+}
+#project{
+    color: crimson;
+    background-color: aquamarine;
+}
+#certify{
+    color: darkred;
+    background-color: chartreuse;
+}
+#hobbie{
+    color: white;
+    background-color: black;
+}
+#lang{
+    color: rgb(210, 30, 186);
+    background-color: cadetblue;
+}
+#declare{
+    color: darkgray;
+    background-color: green;
+}
+.e{
+    color: red;
+}
+.d{
+    color: blue;
+}
+.u{
+    color: brown;
+}
+.c{
+    color: green;
+}
+.a{
+    color: black;
+}
+.t{
+    color: orangered;
+}
+.i{
+    color: aqua;
+}
+.o{
+    color: grey;
+}
+.n{
+    color: palevioletred;
+}
+.tech{
+    color: orange;
+}
+.prog{
+    color: orangered;
+}
+.pass{
+    color: purple;
+}
+.edu{
+    background-color: rgb(227, 227, 25);
+}
